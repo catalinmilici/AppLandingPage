@@ -83,7 +83,7 @@ header {
 
 .hero-section {
     position: relative;
-    background-image: url(/images/hero-section.jpg);
+    background-image: url(../images/hero-section.jpg);
     background-position: center;
     background-size: cover;
     padding: 100px 0;
@@ -265,7 +265,7 @@ header {
 
 #download {
     position: relative;
-    background-image: url(/images/hero-section.jpg);
+    background-image: url(../images/download.jpg);
     background-position: center;
     background-size: cover;
     padding: 100px 0;
@@ -342,7 +342,7 @@ header {
         height: 100%;
         top: 0;
         left: 40%;
-        background-image: url(/images/shape-bg-right.svg);
+        background-image: url(../images/shape-bg-right.svg);
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
@@ -454,7 +454,7 @@ header {
     }
 
     .screenshot-frame {
-        background-image: url(/images/phone-frame2.png);
+        background-image: url(../images/phone-frame2.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         display: block;
